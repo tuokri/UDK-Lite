@@ -1,4 +1,17 @@
+*.vscode
 *.code-workspace
 
 # Compiled scripts.
 UDKGame/Script
+
+# UDK binaries.
+Binaries/
+
+# Packages.
+Engine/Content/
+UDKGame/Content/
+*.upk
+*.u
+
+# Logs.
+UDKGame/Logs
