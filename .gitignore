@@ -15,3 +15,9 @@ UDKGame/Content/
 
 # Logs.
 UDKGame/Logs
+
+# Shaders.
+Engine/Shaders
+
+# Other runtime generated files.
+UDKGame/Cloud/
