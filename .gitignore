@@ -12,6 +12,7 @@ Engine/Content/
 UDKGame/Content/
 *.upk
 *.u
+*.7z
 
 # Logs.
 UDKGame/Logs
