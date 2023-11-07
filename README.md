@@ -16,6 +16,12 @@ Can be used as a part of GitHub Actions workflows.
 
 **NOTE: UDK editor functionality is not supported.**
 
+#### Example
+
+See [UScript-MsgBuf UDKTests](https://github.com/tuokri/uscript-msgbuf/tree/master/tests/UDKTests) for
+practical usage examples. Keep in mind that the UScript-MsgBuf repo is WORK IN PROGRESS and as such the
+examples may not be fully functional at this time.
+
 ### TODO
 
 - There's possible a few more packages that can be stripped without causing errors.
