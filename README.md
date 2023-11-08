@@ -13,6 +13,7 @@ Can be used as a part of GitHub Actions workflows.
 3. Extract the binary/package archive in the root of the source code directory.
 4. Use e.g. `Binaries/Win64/UDK.exe make -useunpublished` to compile scripts.
 5. Use e.g. `Binaries/Win64/UDK.exe Entry -log -useunpublished` to run the game.
+6. Use e.g. `Binaries/Win64/UDK.exe server Entry -log -useunpublished` to run a dedicated server.
 
 **NOTE: UDK editor functionality is not supported.**
 
