@@ -2,7 +2,7 @@
 *.code-workspace
 
 # Compiled scripts.
-UDKGame/Script
+UDKGame/Script/*
 !UDKGame/Script/Manifest.txt
 
 # UDK binaries.
