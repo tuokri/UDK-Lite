@@ -17,15 +17,22 @@ Can be used as a part of GitHub Actions workflows.
 
 **NOTE: UDK editor functionality is not supported.**
 
-#### Example
+#### Examples
 
 See [UScript-MsgBuf UDKTests](https://github.com/tuokri/uscript-msgbuf/tree/master/tests/UDKTests) for
 practical usage examples. Keep in mind that the UScript-MsgBuf repo is WORK IN PROGRESS and as such the
 examples may not be fully functional at this time.
 
+[UnrealScript-FCrypto](https://github.com/tuokri/UnrealScript-FCrypto/tree/master/UDKTests)
+repository also contains a practical usage example of running automation tests with UDK-Lite
+with GitHub actions CI. The important parts are in the `UDKTests` directory and the
+[workflow file](https://github.com/tuokri/UnrealScript-FCrypto/blob/master/.github/workflows/udk-tests.yaml).
+
 ### TODO
 
 - There's possible a few more packages that can be stripped without causing errors.
+- Add assets needed by the setup program to the release archive so the setup can be ran
+  in case it is needed.
 
 ### UDK Copyright
 
